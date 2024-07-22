@@ -12,8 +12,6 @@ import Typography from "@mui/material/Typography";
 import MenuItem from "@mui/material/MenuItem";
 import Button from "@mui/material/Button";
 import { NavLink } from "react-router-dom";
-import {create} from "ipfs-http-client"
-import {ethers} from "ethers"
 
 const districts = [
   "Thiruvanathapuram",
