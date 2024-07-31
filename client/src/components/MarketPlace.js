@@ -56,7 +56,8 @@ export default function MarketPlace(props) {
   }, [contract]);
 
 
-
+  alert("This web application runs on Ethereum Holesky Network. Make sure you have an Metamask extension installed and set the network to Holesky Testnet to avaid unexpected errors.")
+  
   return (
     <Box
       sx={{
