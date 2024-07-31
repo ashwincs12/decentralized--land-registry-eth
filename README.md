@@ -50,14 +50,14 @@ Follow these steps to set up the project locally:
    ```
 5. **Start the Application**
    ```sh
+   npm start
+   ```
 
 ## Project Structure
 
 - **contracts/**: Smart contracts written in Solidity.
 - **scripts/**: Deployment scripts.
 - **client/**: Frontend application using React.
-   npm start
-   ```
 
 ## Acknowledgments
 
